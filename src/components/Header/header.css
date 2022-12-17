@@ -1,0 +1,33 @@
+.top-header {
+    
+    padding: 20px 50px;
+}
+
+.logo {
+    font-family: cursive !important;
+    font-size: 25px !important;
+    font-weight: 200 !important;
+}
+
+.social-image {
+    width: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.menu-list {
+    padding: 12px 50px;
+    border-bottom: 1px solid #f5efef;
+}
+
+.menu-item {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+.menu-item:first-child {
+    margin-left: 10px;
+}

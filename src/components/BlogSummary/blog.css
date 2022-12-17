@@ -1,0 +1,12 @@
+.blog-item {
+    display: block;
+}
+
+.blog-span {
+    display: flex;
+}
+
+.blog-img {
+    margin-left: auto;
+    /* margin-right: auto; */
+}
